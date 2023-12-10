@@ -1,0 +1,16 @@
+:root {
+  --body-light-font-family: "Inter-Regular", Helvetica;
+  --body-light-font-size: 16px;
+  --body-light-font-style: normal;
+  --body-light-font-weight: 400;
+  --body-light-letter-spacing: 0px;
+  --body-light-line-height: 120.00000476837158%;
+  --caption-font-family: "Inter-Medium", Helvetica;
+  --caption-font-size: 13px;
+  --caption-font-style: normal;
+  --caption-font-weight: 500;
+  --caption-letter-spacing: 0px;
+  --caption-line-height: 120.00000476837158%;
+  --grey-900: rgba(25, 25, 26, 1);
+  --neutral-300: rgba(212, 212, 212, 1);
+}

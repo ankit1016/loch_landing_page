@@ -1,0 +1,46 @@
+.testi-main-container {
+  width: max-content;
+  height: 100px;
+  padding: 20px;
+  background: white;
+  box-shadow: 0px 1px 1px rgba(0, 0, 0, 0.04);
+  border-radius: 12px;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: flex-start;
+  gap: 20px;
+  display: inline-flex;
+}
+
+.testi-layer-1 {
+  justify-content: flex-start;
+  align-items: center;
+  gap: 8px;
+  display: inline-flex;
+}
+
+.testi-layer-1 .name {
+  color: #19191a;
+  font-size: 16px;
+  font-family: Inter;
+  font-weight: 600;
+  word-wrap: break-word;
+}
+
+.testi-layer-1 .position {
+  color: #96979a;
+  font-size: 13px;
+  font-family: "Inter";
+  font-weight: 500;
+  word-wrap: break-word;
+}
+
+.testi-main-container .message {
+  width: 313px;
+  color: #1d2129;
+  font-size: 16px;
+  font-family: Inter;
+  font-weight: 500;
+  word-wrap: break-word;
+  overflow-y: scroll;
+}
